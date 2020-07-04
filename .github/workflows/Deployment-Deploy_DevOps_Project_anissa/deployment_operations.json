@@ -1,0 +1,19 @@
+[
+  {
+    "id": "/subscriptions/106ae9a4-3b09-409d-a3a5-e93ef087a74e/resourceGroups/VstsRG-anissaopenservice-c910/providers/Microsoft.Resources/deployments/Deploy_DevOps_Project_anissa/operations/29CA02C419EB6E6E",
+    "operationId": "29CA02C419EB6E6E",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Running",
+      "timestamp": "2020-06-28T01:35:28.5476086Z",
+      "duration": "PT19.7794279S",
+      "trackingId": "158dd0b7-80b3-4efe-af02-6946986151ef",
+      "statusCode": "Accepted",
+      "targetResource": {
+        "id": "/subscriptions/106ae9a4-3b09-409d-a3a5-e93ef087a74e/resourceGroups/VstsRG-anissaopenservice-c910/providers/Microsoft.DevOps/pipelines/anissa",
+        "resourceType": "Microsoft.DevOps/pipelines",
+        "resourceName": "anissa"
+      }
+    }
+  }
+]

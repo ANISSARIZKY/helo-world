@@ -1,0 +1,39 @@
+{
+  "id": "/subscriptions/106ae9a4-3b09-409d-a3a5-e93ef087a74e/resourceGroups/VstsRG-anissaopenservice-c910/providers/Microsoft.Resources/deployments/Deploy_DevOps_Project_anissa",
+  "name": "Deploy_DevOps_Project_anissa",
+  "type": "Microsoft.Resources/deployments",
+  "tags": {
+    "primaryResourceId": "/subscriptions/106ae9a4-3b09-409d-a3a5-e93ef087a74e/resourcegroups/VstsRG-anissaopenservice-c910/providers/Microsoft.DevOps/pipelines/anissa",
+    "marketplaceItemId": "Microsoft.AzureProject"
+  },
+  "properties": {
+    "templateHash": "5455635931980960598",
+    "parameters": {
+      "azureAuth": {
+        "type": "SecureString"
+      }
+    },
+    "mode": "Incremental",
+    "debugSetting": {
+      "detailLevel": "None"
+    },
+    "provisioningState": "Running",
+    "timestamp": "2020-06-28T01:35:40.0925369Z",
+    "duration": "PT34.937694S",
+    "correlationId": "3cd7efcc-1032-4589-a4e4-c405aca769db",
+    "providers": [
+      {
+        "namespace": "Microsoft.DevOps",
+        "resourceTypes": [
+          {
+            "resourceType": "pipelines",
+            "locations": [
+              "centralus"
+            ]
+          }
+        ]
+      }
+    ],
+    "dependencies": []
+  }
+}
